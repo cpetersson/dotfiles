@@ -1,0 +1,22 @@
+[user]
+	name = Christian Petersson
+	email = christian.petersson@gmail.com
+[core]
+	# editor = atom --wait
+	editor = vim
+[branch]
+	autosetuprebase = always
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  df = diff
+  lg = log -p
+  lol = log --graph --decorate --pretty=oneline --abbrev-commit
+  lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+  ls = ls-files
+  co = checkout
+  suir = submodule update --init --recursive
+[push]
+	#default = simple
+	default = current
