@@ -128,7 +128,8 @@ module.exports = {
     summon: {
       hideDock: false,
       hideOnBlur: false,
-      hotkey: 'cmd+,'
+      // hotkey: 'cmd+,'
+      hotkey: 'cmd+shift+z'
     },
     hyperline: {
       plugins: [
