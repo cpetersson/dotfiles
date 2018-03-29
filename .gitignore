@@ -2,5 +2,7 @@
 !.gitconfig
 !.gitignore
 !.hyper.js
+!.vimrc
 !.zshrc
+!vscode_keybindings.json
 !vscode_settings.json
