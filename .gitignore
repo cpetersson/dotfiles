@@ -4,5 +4,7 @@
 !.hyper.js
 !.vimrc
 !.zshrc
-!vscode_keybindings.json
-!vscode_settings.json
+!.vscode_keybindings.json
+!.vscode_settings.json
+!.vscode_styles.css
+

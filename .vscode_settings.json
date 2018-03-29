@@ -44,7 +44,7 @@
     "editor.cursorWidth": 5,
     "editor.cursorBlinking": "solid",
     "vscode_custom_css.imports": [
-        "file:///Users/christian/.vscodestyles.css"
+        "file:///Users/christian/.vscode_styles.css"
     ],
     "editor.renderWhitespace": "all",
     "editor.tabSize": 2,
